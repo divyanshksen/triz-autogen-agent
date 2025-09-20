@@ -33,16 +33,6 @@ The system helps executives, engineers, and researchers **resolve contradictions
 
 ---
 
-## 🖼️ Visuals
-
-### TRIZ Hallucination Problem (Slides)  
-<img src="screenshots/GNHW1 (1).png" alt="GenAI Hallucination Problem" width="600"/>  
-
-### 9-Window Analysis  
-<img src="screenshots/GNHW2 (1).png" alt="9-Window TRIZ Analysis" width="600"/>  
-
----
-
 ## Tech Stack
 - **Python**  
 - **AutoGen (Microsoft)**  
